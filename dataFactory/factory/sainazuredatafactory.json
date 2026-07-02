@@ -1,0 +1,15 @@
+{
+	"name": "sainazuredatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "04ac1769-70f4-4ab5-90e1-a61d99e6da2c",
+		"tenantId": "4850597e-d2e6-499e-bd97-3fb386de0a44"
+	}
+}
